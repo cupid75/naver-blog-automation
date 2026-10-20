@@ -1,0 +1,26 @@
+# 개인 설정과 운영 데이터
+newsletter-state.json
+run-*.md
+output/
+tmp/
+.local/
+.env
+.env.*
+!.env.example
+*.eml
+*.pst
+*.pfx
+*.pem
+*credential*.xml
+
+# 로컬 실행 환경
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+.codex/
+.codex-remote-attachments/
+.DS_Store
+Thumbs.db
